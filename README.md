@@ -25,9 +25,7 @@ This project was created as a practical exercise to strengthen knowledge in rout
 
 ## Network Topology
 
-> Add your topology screenshot here.
-
-Example:
+![alt text](<Screenshot 2026-06-15 233615.png>)
 
 ---
 
